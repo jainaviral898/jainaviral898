@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **all the beginner stuff related to development :)**
 
+- 👨‍ I am studying AI, ML, Computer Vision, Graphical Models as a part of my coursework at IIT KGP. 
+
 - 👨‍💻 All of my projects are available at [https://github.com/jainaviral898/](https://github.com/jainaviral898/)
 
 - 📄 Know about my experiences [in my resume.](https://github.com/jainaviral898/Personal/blob/main/Aviral%20Jain%20CV%20-%20Non%20CDC%20Track.pdf)
