@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jainaviral898/](https://github.com/jainaviral898/)
 
-- 📄 Know about my experiences [in my resume.](https://github.com/jainaviral898/Personal/blob/main/Aviral%20Jain%20-%20CDC%20CV%20Tech.pdf)
+- 📄 Know about my experiences [in my resume.](https://github.com/jainaviral898/Personal/blob/main/Aviral%20Jain%20CV%20-%20Non%20CDC%20Track.pdf)
 
 - ⚡ Fun fact **I love Coffee**
 
